@@ -33,9 +33,7 @@ function App() {
           <h4 className="text-xs sm:text-sm font-semibold">TITLE HERE</h4>
         </div>
       </div>
-      <div style={{ stroke: "0px", padding: "0px" }}>
-        {/* <Recharts></Recharts> */}
-      </div>
+      <div style={{ stroke: "0px" }}>{/* <Recharts></Recharts> */}</div>
     </div>
   );
 }
