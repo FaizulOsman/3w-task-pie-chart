@@ -16,7 +16,7 @@ import icon5 from "../assets/icons/icon5.png";
 ChartJS.register(RadialLinearScale, ArcElement, Tooltip, Legend);
 
 const ChartJs = () => {
-  // React Chart JS
+  // ================= Data of ChartJs =================
   const data = {
     // labels: ["OPTION B", "OPTION C", "OPTION D", "OPTION E", "OPTION A"],
     datasets: [
